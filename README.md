@@ -5,7 +5,7 @@
 Módulo de interface para todo angular - [API Correspondente](https://github.com/felipe11dias/todo-api-spring)
 
 ## Features
-- Telas do CRUD Tasks(Tarefas)
+- Telas do CRUD Todo(Tarefas)
 
 ## Tecnologias utilizadas
 - [Angular 10.2.4](https://angular.io/)
